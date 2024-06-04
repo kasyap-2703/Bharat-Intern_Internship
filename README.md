@@ -17,11 +17,11 @@ Welcome to the repository of my web development projects as a part of bharat int
    - **Setup**:
      1. Clone the repository:
         ```bash
-        git clone https://github.com/yourusername/web-development-projects.git
+        git clone https://github.com/kasyap-2703/Bharat-Intern_Internship.git
         ```
      2. Navigate to the project directory:
         ```bash
-        cd web-development-projects/weather-app
+        cd Bharat-Intern_Internship/Weather-Website
         ```
      3. Open `index.html` in your browser.
      4. Obtain an API key from OpenWeatherMap and replace `YOUR_API_KEY` in the `script.js` file with your actual API key.
@@ -45,7 +45,7 @@ Welcome to the repository of my web development projects as a part of bharat int
         ```
      2. Navigate to the project directory:
         ```bash
-        cd web-development-projects/netflix-clone
+        cd Bharat-Intern_Internship/Netflix-Homepage
         ```
      3. Open `index.html` in your browser.
    - **Files**:
